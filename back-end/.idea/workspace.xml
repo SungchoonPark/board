@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f0194da1-b53d-4414-a52a-4f6931a3f9b9" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../intellij/study/demo (3)/demo/src/main/java/com/example/demo/controller/StudentController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../intellij/study/demo (3)/demo/src/main/java/com/example/demo/entity/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../intellij/study/demo (3)/demo/src/main/java/com/example/demo/repository/StudentRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../intellij/study/demo (3)/demo/src/main/java/com/example/demo/service/StudentService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../intellij/study/test (1)/test/src/main/java/testSpring/test/student/StudentService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../intellij/study/test (1)/test/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../intellij/study/test (1)/test/mvnw" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../intellij/study/test (1)/test/mvnw.cmd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../intellij/study/test (1)/test/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../intellij/study/test (1)/test/src/main/java/testSpring/test/student/StudentController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../intellij/study/test (1)/test/src/main/java/testSpring/test/student/StudentController.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1xDYCHrUT3PWitcxf1wmF7AEVfW" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../intellij/study/test (2)/test" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f0194da1-b53d-4414-a52a-4f6931a3f9b9" name="Changes" comment="" />
+      <created>1629890997494</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1629890997494</updated>
+      <workItem from="1629890999034" duration="839000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
